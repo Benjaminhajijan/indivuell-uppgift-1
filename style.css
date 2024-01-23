@@ -1,0 +1,7 @@
+#head-text {
+  justify-content: space-between;
+  display: flex;
+  padding: 5px 10px;
+  border: solid 3px black;
+  border-radius: 25px;
+}
